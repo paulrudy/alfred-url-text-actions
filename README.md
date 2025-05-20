@@ -4,6 +4,8 @@ This workflow provides actions for getting text from the browser or a URL.
 
 From the frontmost browser tab or with a URL selected, get the page text as markdown, a markdown link, and more. Paste it automatically with a keyword and modifier, a Snippet Trigger, or a Universal Action.
 
+[Alfred forum thread](https://www.alfredforum.com/topic/23116-url-text-actions/)
+
 ## Setup
 
 Install Brett Terpstra's [Gather CLI](https://brettterpstra.com/projects/gather-cli/) service, which is required for the actions that get the page text or title from the web.
@@ -46,6 +48,11 @@ Universal Actions (as described above):
 ![screenshot of universal action](./screenshots/universal-action-with-copy.png)
 
 (Copying and pasting a URL is not available as a Universal Action, since it's trivial to do that via the keyboard)
+
+Snippet Trigger example:
+
+![screenshot of ..bpmd snippet](./screenshots/snippet-before.png)
+![screenshot of ..bpmd snippet](./screenshots/snippet-after.png)
 
 ## Credits:
 
