@@ -14,7 +14,7 @@ Install Brett Terpstra's [Gather CLI](https://brettterpstra.com/projects/gather-
 
 Copy the front browser page text as markdown via the `bpmd` keyword.
 
-![screenshot of bpmd keyword](./screenshots/bpmd-keyword.png-)
+![screenshot of bpmd keyword](src/screenshots/bpmd-keyword.png-)
 
 - <kbd>⌘</kbd> to immediately paste the text.
 - Or use the Snippet Trigger `..bpmd` to immediately paste the text.
@@ -22,7 +22,7 @@ Copy the front browser page text as markdown via the `bpmd` keyword.
 
 Copy the URL from front browser as markdown link via the `bmd` keyword.
 
-![screenshot of bmd keyword](./screenshots/bmd-keyword.png)
+![screenshot of bmd keyword](src/screenshots/bmd-keyword.png)
 
 - <kbd>⌘</kbd> to immediately paste the text.
 - Or use the Snippet Trigger `..bmd` to immediately paste the text.
@@ -30,7 +30,7 @@ Copy the URL from front browser as markdown link via the `bmd` keyword.
 
 Copy the front browser page title via the `btitle` keyword.
 
-![screenshot of btitle keyword](./screenshots/btitle-keyword.png)
+![screenshot of btitle keyword](src/screenshots/btitle-keyword.png)
 
 - <kbd>⌘</kbd> to immediately paste the text.
 - Or use the Snippet Trigger `..btitle` to immediately paste the text.
@@ -38,21 +38,21 @@ Copy the front browser page title via the `btitle` keyword.
 
 Copy the front browser URL via the `burl` keyword.
 
-![screenshot of burl keyword](./screenshots/burl-keyword.png)
+![screenshot of burl keyword](src/screenshots/burl-keyword.png)
 
 - <kbd>⌘</kbd> to immediately paste the text.
 - Or use the Snippet Trigger `..burl` to immediately paste the text.
 
 Universal Actions (as described above):
 
-![screenshot of universal action](./screenshots/universal-action-with-copy.png)
+![screenshot of universal action](src/screenshots/universal-action-with-copy.png)
 
 (Copying and pasting a URL is not available as a Universal Action, since it's trivial to do that via the keyboard)
 
 Snippet Trigger example:
 
-![screenshot of ..bpmd snippet](./screenshots/snippet-before.png)
-![screenshot of ..bpmd snippet](./screenshots/snippet-after.png)
+![screenshot of ..bpmd snippet](src/screenshots/snippet-before.png)
+![screenshot of ..bpmd snippet](src/screenshots/snippet-after.png)
 
 ## Credits:
 
