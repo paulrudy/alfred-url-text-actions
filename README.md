@@ -54,7 +54,7 @@ Snippet Trigger example:
 ![screenshot of ..bpmd snippet](src/screenshots/snippet-before.png)
 ![screenshot of ..bpmd snippet](src/screenshots/snippet-after.png)
 
-## Credits:
+## Credits
 
 Based on a [workflow](https://www.alfredforum.com/topic/17176-browser-safari-snippets-and-universal-actions) by [Derick Fay](https://www.alfredforum.com/profile/3468-dfay/)
 
