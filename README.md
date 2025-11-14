@@ -1,5 +1,8 @@
 # URL Text Actions - Alfred workflow
 
+> [!IMPORTANT]
+> This project has [migrated to Codeberg](https://codeberg.org/paulrudy/alfred-url-text-actions/releases) as of release 1.1.3. All updates, issues, and pull requests will occur there.
+
 This workflow provides actions for getting text from the browser or a URL.
 
 From the frontmost browser tab or with a URL selected, get the page text as markdown, a markdown link, and more. Paste it automatically with a keyword and modifier, a Snippet Trigger, or a Universal Action.
